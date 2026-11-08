@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/Johan-FF/learn-kubernetes-config.git
+    repoURL: https://github.com/Johan-FF/learn-kubernetes.git
     targetRevision: main
     path: log_output/manifests
   destination:

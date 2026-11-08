@@ -8,7 +8,7 @@ spec:
   source:
     repoURL: https://github.com/Johan-FF/learn-kubernetes-config.git
     # Production follows the tags: bumping this value to a newer release tag is the deploy.
-    targetRevision: "4.9"
+    targetRevision: "4.10"
     path: project/overlays/production
   destination:
     server: https://kubernetes.default.svc
